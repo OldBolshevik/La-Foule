@@ -1,0 +1,40 @@
+
+state={
+	id=791
+	name="STATE_791"
+	manpower = 2438286
+	resources={
+		steel = 8
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = GER
+		victory_points = {
+			3326 5 
+		}
+		victory_points = {
+			6377 10 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = GER
+
+		1939.1.1 = {
+			buildings = {
+				air_base = 6
+				arms_factory = 4
+				industrial_complex = 3
+			}
+		}
+	}
+
+	provinces={
+		9456 11359 3522 6487 9560 11468 6582 9238
+	}
+}

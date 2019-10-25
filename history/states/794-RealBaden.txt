@@ -1,0 +1,31 @@
+state={
+	id=794
+	name="STATE_794"
+
+	state_category = large_city
+	history={
+		owner = GER
+		victory_points = {
+			3530 10
+		}
+		victory_points = {
+			11640 1
+		}
+		victory_points = {
+			6712 3
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 3
+			air_base = 3
+
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		11486 694 3679 3530 6568 6581 6542 3692 6712 11640 
+	}
+	manpower=5086854
+	buildings_max_level_factor=1.000
+}

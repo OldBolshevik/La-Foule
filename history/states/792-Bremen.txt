@@ -1,0 +1,33 @@
+state= {
+	id=792
+	name="STATE_792"
+	manpower = 3248150 
+	state_category = metropolis
+	
+	history=
+	{
+		victory_points = {
+			3326 10
+		}
+		owner = GER
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 2
+		}
+		add_core_of = GER
+		1939.1.1 = {
+			buildings = {
+				synthetic_refinery = 3
+				anti_air_building = 5
+				dockyard = 7
+				arms_factory = 4
+			}
+		}
+	}
+
+	provinces= {
+		3326 
+ 	}
+}
