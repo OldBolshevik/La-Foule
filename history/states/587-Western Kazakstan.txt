@@ -1,0 +1,28 @@
+state={
+	id=587
+	name="STATE_587"
+	history={
+		victory_points = {
+			13218 1
+		}
+		victory_points = {
+			13219 1
+		}
+		owner = TMS
+		add_core_of = TMS
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		475 642 1517 3593 4523 4620 7641 10262 11701 12163 12383 13008 13218 13219
+	}
+	manpower=245133
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

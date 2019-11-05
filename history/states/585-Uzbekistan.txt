@@ -1,0 +1,25 @@
+state={
+	id=585
+	name="STATE_585"
+	
+	history={
+		victory_points={
+			12465 5
+		}
+		add_core_of = UZB
+		owner = UZB
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		12465 13222 13229 13228 13227 13226 13225
+	}
+	manpower=813721
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

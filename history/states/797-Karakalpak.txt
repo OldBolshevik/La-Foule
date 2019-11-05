@@ -1,0 +1,22 @@
+state={
+	id=797
+	name="STATE_797"
+
+	history={
+		add_core_of = UZB
+		owner = UZB
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1479 1576 1614 1721 4488 4499 4618 10395 10435 10470 12233 12324 12471 13233 13234 13235
+	}
+	manpower=703721
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

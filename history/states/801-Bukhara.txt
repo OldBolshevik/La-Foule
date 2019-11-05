@@ -1,0 +1,23 @@
+state={
+	id=801
+	name="STATE_801"
+
+	history={
+		add_core_of = UZB
+		owner = UZB
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		10470 9605 12161 1623 1554 10420 1532 7507 7501 13236
+	}
+	manpower=812721
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,28 @@
+state={
+	id=799
+	name="STATE_799"
+
+	history={
+		add_core_of = TMS
+		owner = TMS
+		victory_points = {
+			7477 3
+		}
+		victory_points = {
+			13223 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		7477 4563 1593 13224 13223 13221 12359 10510 4599 7635 10406 7563 10359
+	}
+	manpower=154523
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

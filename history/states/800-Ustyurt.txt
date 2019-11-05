@@ -1,0 +1,22 @@
+state={
+	id=800
+	name="STATE_800"
+
+	history={
+		add_core_of = UZB
+		owner = TMS
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = TMS
+
+	}
+
+	provinces={
+7541 12233 12474 13207 10348 12454
+	}
+	manpower=7921
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
